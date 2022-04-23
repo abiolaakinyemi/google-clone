@@ -6,7 +6,7 @@ run npm i && npm start to start the development server
 
 The link to the website is below!
 
-[Live Site](https://abiola-google-clone.netlify.app/search)
+[Live Site](https://abiola-google-clone.netlify.app)
 
 This is a screenshot of how it looks below!
 
